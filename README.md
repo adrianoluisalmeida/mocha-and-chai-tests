@@ -10,6 +10,6 @@ Chai.js is an excellent assertion library that assists Node.Js developers in rea
 
 https://www.chaijs.com/api/assert/
 
-**Para executar**
+**Execute**
 1. npm install
 2. npm run test
