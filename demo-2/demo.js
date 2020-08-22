@@ -1,0 +1,1 @@
+module.exports = () => 'Mocha & Chai são legais!';
